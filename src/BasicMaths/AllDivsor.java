@@ -8,6 +8,7 @@ public class AllDivsor {
 		divisor(n);
 	}
 
+	// Method for checking all the divisor of given number
 	public static void divisor(int n) {
 		System.out.print("The divisor of " + n + " are : ");
 		for (int i = 1; i <= n; i++) {

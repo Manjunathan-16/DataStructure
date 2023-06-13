@@ -17,6 +17,7 @@ public class ReverseOfNumber {
 			System.out.println("It is not a palindrome");
 	}
 
+	// Reversing the given number
 	public static void Reverse(int n) {
 
 		while (n != 0) {
